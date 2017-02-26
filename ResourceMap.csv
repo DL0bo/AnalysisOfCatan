@@ -1,4 +1,4 @@
-Id,Tile,DieValue,Resource
+ResourceId,Tile,DieValue,Resource
 1,A,5,O
 2,B,2,G
 3,C,6,W
