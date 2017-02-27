@@ -3,7 +3,7 @@
 Summary
 An Analysis Of Settlers of Catan vanilla version to try and see the fastest way to gain victory points through simulations.
 
-The settlers of catan rules can be found online: http://www.catan.com/service/game-rules
+The settlers of catan rules can be found online: http://www.catan.com/en/download/?SoC_rv_Rules_091907.pdf
 
 The standard vanilla rules will be used when implementing the simulation. All constraints will be applied based on the availbale pieces available to the player. The standard map setting found in the game's manual will be used for the simulation.
 
